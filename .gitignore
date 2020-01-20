@@ -1,0 +1,17 @@
+# dependencies
+app/node_modules
+
+# testing
+app/dist
+
+# production
+app/build
+
+# misc
+npm-debug.log*
+
+# bundle
+sources/comps/www/js/bundle.min.js*
+
+# index..html
+sources/comps/www/index.html*
