@@ -46,7 +46,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 
 ## Install
 
-    $ git clone https://welovecode.ru/ziferblat/runabar-site.git
+    $ git clone https://github.com/deeroleg/runabar.git
     $ cd runabar-site/app
     $ npm install
 
