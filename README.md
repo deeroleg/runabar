@@ -47,7 +47,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Install
 
     $ git clone https://github.com/deeroleg/runabar.git
-    $ cd runabar-site/app
+    $ cd runabar/app
     $ npm install
 
 ### Configure app
@@ -74,8 +74,3 @@ A common way to update is by doing
     $ git pull
     $ npm prune
     $ npm install
-
-To run those 3 commands you can just do
-
-    $ npm run pull
-
